@@ -13,14 +13,14 @@ This is a basic graphing tool made with p5.js that can graph basic numbers.
 
 ![image description](https://cdn.discordapp.com/attachments/499522799396847616/981820946644086814/unknown.png)
 
-### Example 1:
+### Example 2:
 
 
 >$$f(x)=sin(x^2)+x$$
 
 ![image description](https://cdn.discordapp.com/attachments/499522799396847616/981821818509881375/unknown.png)
 
-### Example 1:
+### Example 3:
 
 
 >$$f(x)=e^x$$
