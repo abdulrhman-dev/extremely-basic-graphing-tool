@@ -1,5 +1,6 @@
 ## What is this?
 This is a basic graphing tool made with p5.js that can graph basic numbers.
+
 **Note:**
     - This graphing tool doesn't have a visble numberline.
     - Doesn't work will with funcions that has undefined values e.i (1/x).
