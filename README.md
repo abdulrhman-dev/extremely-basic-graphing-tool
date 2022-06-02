@@ -1,5 +1,5 @@
 ## What is this?
-This is a basic graphing tool made with p5.js that can graph basic numbers.
+This is a basic graphing tool made with p5.js that can graph basic functions.
 
 **Note:**
 * This graphing tool doesn't have a visble numberline.
