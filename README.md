@@ -28,10 +28,3 @@ This is a basic graphing tool made with p5.js that can graph basic numbers.
 
 
 ![image description](https://cdn.discordapp.com/attachments/499522799396847616/981823539839651850/unknown.png)
-
-<style>
-    img{
-        margin-right: auto;
-        margin-left: auto;
-    }
-</style>
